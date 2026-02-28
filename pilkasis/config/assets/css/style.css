@@ -1,0 +1,8 @@
+body{font-family:Arial,Helvetica,sans-serif;margin:0;padding:0}
+header{background:#333;color:#fff;padding:10px}
+header h1{margin:0;display:inline-block}
+nav{display:inline-block;margin-left:20px}
+main{padding:20px}
+.flash{background:#fffae6;padding:10px;border:1px solid #ffd36b}
+table{border-collapse:collapse;width:100%}
+table th, table td{border:1px solid #ddd;padding:8px}
